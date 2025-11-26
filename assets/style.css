@@ -1,0 +1,107 @@
+#header {
+    margin-bottom: 0px;
+
+}
+
+#header a {
+    color: #000000;
+
+}
+
+#detail{
+    display: flex;
+}
+
+* a{
+    color: #ffffff;
+    text-decoration-color: #ffffff;
+}
+
+#Testimoni{
+    text-align: center;
+    padding: 10px;
+    font-weight: bold;
+}
+
+#header {
+    background-color: #ffffff;
+    color: #fff;
+    margin-bottom: 0px;
+    border: none;
+    border-radius: 0px;
+}
+
+
+#tombol{
+    justify-content: flex-end;
+}
+
+.navbar .navbar-header .navbar-brand {
+    color: #fff;
+}
+
+.navbar .collapse .nav li a {
+    color: #fff;
+}
+
+#hero {
+    background: url(img/hero.png);
+    background-repeat: no-repeat;
+    padding: 20%;
+    color: aliceblue;
+    text-align: center;
+}
+#hero a{
+    color: #fff;
+}
+#herop {
+    background: url(img/hero.png);
+    background-repeat: no-repeat;
+    padding: 10%;
+    color: aliceblue;
+    text-align: center;
+}
+
+ #gambarproduk1 {
+    height: 100%;
+    width: 100%;
+}
+
+#header {
+    height: 10px;
+}
+
+#footer {
+    margin-bottom: 0%;
+    margin-top: 15px;
+}
+
+html body #footer {
+    background: #1d1d1d;
+    text-align: center;
+    color: #fff;
+    margin-bottom: 0px;
+}
+
+#footer a {
+    color: #fff;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#ProdukTerbaik{
+    text-align: center;
+    color: rgb(86, 86, 86);
+    padding: 50px;
+    font-weight: bolder;
+}
+
+#produklainnya{
+    color: #fff;
+    text-decoration: none;
+}
+#Kontak{
+    text-align: center;
+    padding: 5px;
+    font-weight: bolder;
+}
